@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | `Deteksi titik panas (active fire / hotspot) VIIRS S-NPP 375 m, data standar, Indonesia` |
+| Sumber | `NASA FIRMS, halaman "Download yearly summary by country": (https://firms.modaps.eosdis.nasa.gov/country/)` |
+| Lisensi/ketentuan pakai | `Data terbuka NASA; sitasi dan kebijakan: https://www.earthdata.nasa.gov/engage/open-data-services-software-policies/data-use-policy` |
+| Ukuran | `76.3 MB total CSV Indonesia (memenuhi syarat: > 1.000.000 baris / >= 500 MB)` |
+| Periode data | `Data yang diambil dari rentang tahun 2019 - 2024` |
+| Unit analisis | `Satu deteksi titik panas (satu piksel 375 m pada satu waktu lintasan satelit` |
 
 ## Tempat Mencari Dataset
 
