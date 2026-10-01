@@ -1,6 +1,6 @@
 # Tugas 1: Eksplorasi dan Analisis Dataset Besar Indonesia
 
-Template untuk Tugas 1 mata kuliah Analisis Big Data. Setelah repository GitHub Classroom dibuat, ubah nama repository menjadi `tugas1-[username_github]`.
+Template untuk Tugas 1 mata kuliah Analisis Big Data. Setelah repository GitHub Classroom dibuat, ubah nama repository menjadi `tugas1-trafit`.
 
 ## Milestone
 
@@ -229,8 +229,6 @@ Buka JupyterLab pada `http://localhost:8888/lab`. Konfigurasi Dockerfile menjala
 
 Isi bagian ini sebelum pengumpulan akhir.
 
-> Alat AI yang digunakan: [nama alat].
->
-> Bagian yang dibantu: [contoh: penjelasan error Polars atau review dokumentasi].
->
-> Verifikasi yang dilakukan: [contoh: menjalankan ulang kode, memeriksa dokumentasi resmi, dan memahami setiap cell].
+> Alat AI yang digunakan: Claude (Anthropic).
+> Bagian yang dibantu: Logika pemrosesan data, penjelasan konsep Polars lazy evaluation dan SUMMARIZE DuckDB, serta pembacaan pesan error saat menjalankan notebook.
+> Verifikasi yang dilakukan: menjalankan ulang seluruh sel dari atas ke bawah, memeriksa hasil terhadap dokumentasi resmi Polars dan DuckDB, dan memastikan saya bisa menjelaskan setiap sel.
