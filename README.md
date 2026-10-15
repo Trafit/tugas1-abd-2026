@@ -1,3 +1,14 @@
+
+| Data Mahasiswa | Keterangan |
+| :--- | :--- |
+| **Nama** | Tengku Rabbani Fitrah Jayakaton |
+| **NIM** | 202310370311427 |
+| **Kelas** | B |
+
+ 
+
+
+
 # Tugas 1: Eksplorasi dan Analisis Dataset Besar Indonesia
 
 Template untuk Tugas 1 mata kuliah Analisis Big Data. Setelah repository GitHub Classroom dibuat, ubah nama repository menjadi `tugas1-trafit`.
