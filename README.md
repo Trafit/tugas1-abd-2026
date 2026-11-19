@@ -96,7 +96,7 @@ Langkah-langkah:
 Setelah selesai, Anda akan memiliki repository dengan alamat seperti:
 
 ```text
-https://github.com/USERNAME-ANDA/tugas1-abd-2026.git
+https://github.com/trafit/tugas1-abd-2026.git
 ```
 
 ---
